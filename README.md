@@ -11,8 +11,11 @@ git checkout main
 git merge hello
 git push
 
+
 git remote set-url origin https://github.com/URK23CS1239/two.git
 git push -u origin main
+
+
 
 git init
 echo "Project" > README.md
